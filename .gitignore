@@ -1,0 +1,43 @@
+/.lokalno/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*~
+*.swp
+
+# C++ / Code::Blocks
+*.o
+*.obj
+*.exe
+*.out
+bin/
+obj/
+*.depend
+*.layout
+ispis_*.txt
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# LaTeX
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+_minted*/
+Izvjestaj/*.pdf
